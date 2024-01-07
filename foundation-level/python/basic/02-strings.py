@@ -68,6 +68,7 @@ print(style_char * 10)
 style_char = '#'
 print(style_char * 5)
 
+print("-"*50,"\n")
 #String formatting
 name = 'Jitendra'
 age = 48
@@ -93,6 +94,7 @@ print("{:->20}".format(fruit))
 # alignment Center
 print("{:^20}".format(fruit))
 print("{:-^20}".format(fruit))
+
 
 #can use b, o and x to display integer values in binary, octal and hexadecimal formats
 num = 98
