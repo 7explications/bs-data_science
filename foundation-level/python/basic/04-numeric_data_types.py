@@ -1,3 +1,5 @@
+import os #importing os library
+os.system('cls')
 #Numeric data types
 #int : Integer numbers are made up of digits 0 to 9 and can be prefixed with unary operators like + or -. There is no restriction to the size of numbers that can be used, only limited by the memory available on your system
 a=40
